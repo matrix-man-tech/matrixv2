@@ -21,7 +21,7 @@ import {
 } from '@react-pdf/renderer'
 
 import SalesReport from '../components/SalesReport'
-import LineChart from '../components/LineChart'
+// import LineChart from '../components/LineChart'
 
 const AdminDashboard = () => {
   const dispatch = useDispatch()
